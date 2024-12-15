@@ -1,6 +1,6 @@
 {
-  "name": "pre-figma-app",
-  "version": "0.1.0",
+  "name": "nike-ui-app",
+  "version": "0.1.1",
   "public": true,
   "scripts": {
     "dev": "next dev --turbopack",
