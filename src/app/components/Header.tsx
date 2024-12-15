@@ -7,7 +7,6 @@ import heart from '@/../public/heart.svg'
 import bag from '@/../public/bag.svg'
 import search from '@/../public/search.svg'
 import Link from 'next/link'
-import { GiHamburgerMenu } from "react-icons/gi";
 import { useState } from 'react'
 
 
