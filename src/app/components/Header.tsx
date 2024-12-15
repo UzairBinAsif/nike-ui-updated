@@ -7,14 +7,9 @@ import heart from '@/../public/heart.svg'
 import bag from '@/../public/bag.svg'
 import search from '@/../public/search.svg'
 import Link from 'next/link'
-import { useState } from 'react'
 
 
 const Header = () => {
-  const [isOpen, setIsOpen] = useState(false);
-  const toggleMenu = () => {
-    setIsOpen(!isOpen)
-  }
 
   return (
     <div className='flex justify-center items-center w-screen h-[7vh] px-[3vw] lg-px-0 bg-[#FFFFFF]'>
